@@ -7,4 +7,4 @@ This project thus includes several branches, depending on the language used :
 - Python
 
 Codes must be launched by chronological order.
-Due to confidentiality, we cannot provide the databases used for the analysis. However, data on Prime d'activité was made available by the CAF and data on Gilet Jaunes (protest and FB discussions) by Boyer et al. (2020).
+Due to confidentiality, we cannot provide the databases used for the analysis. However, data on Prime d'activité was made available by the CNAF and data on Gilet Jaunes (protest and FB discussions) by Boyer et al. (2020).
