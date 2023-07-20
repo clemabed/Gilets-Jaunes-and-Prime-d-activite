@@ -2,7 +2,7 @@
 
 This Master’s thesis presents the impact of the revaluation of the Prime d’activité, following the measures taken by Emmanuel Macron in December 2018, on the Gilets Jaunes mobilization. It examines the relationship between the average impact of the reform at the local level (measured by microsimulation) and the Gilets Jaunes mobilization, both offline – physical protests and online – discussions in Facebook groups about this measure.
 
-This project thus includes several files, depending on the language used : 
+This project thus includes several branches, depending on the language used : 
 - Stata
 - Python
 
